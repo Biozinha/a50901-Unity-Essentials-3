@@ -480,6 +480,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scaleChange: {x: 1.2, y: 1.2, z: 1.2}
+  positionChange: {x: 1, y: 1, z: 1}
+  rotateChange: {x: 1, y: 1, z: 1}
 --- !u!4 &995348474
 Transform:
   m_ObjectHideFlags: 0
